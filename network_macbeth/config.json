@@ -8,13 +8,13 @@
     "text": "Maria"
   },
   "text": {
-    "more": "all interactions between all the characters in shakespeare\u0027s shakespeare\u0027s richard the second feat. one idiot programmer, one confused translator and one philologist who basically saved our butts",
-    "intro": "all interactions between all the characters in shakespeare\u0027s richard the second",
-    "title": "r2_interactions"
+    "more": "analysing all the character encounters in shakespeare",
+    "intro": "macbeth - all interactions",
+    "title": "macbeth"
   },
   "legend": {
     "edgeLabel": "Interaction",
-    "colorLabel": "Not important",
+    "colorLabel": "Character Involvedness",
     "nodeLabel": "Character"
   },
   "features": {

@@ -8,13 +8,13 @@
     "text": "Maria"
   },
   "text": {
-    "more": "all interactions between all the characters in shakespeare\u0027s shakespeare\u0027s henry the sixth feat. one idiot programmer, one confused translator and one philologist who basically saved our butts",
-    "intro": "all interactions between all the characters in shakespeare\u0027s henry the sixth",
-    "title": "henry_interactions"
+    "more": "analysing all the character encounters in shakespeare",
+    "intro": "othello - all interactions",
+    "title": "othello"
   },
   "legend": {
     "edgeLabel": "Interaction",
-    "colorLabel": "Not important",
+    "colorLabel": "Character Involvedness",
     "nodeLabel": "Character"
   },
   "features": {

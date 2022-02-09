@@ -8,13 +8,13 @@
     "text": "Maria"
   },
   "text": {
-    "more": "all interactions between all the characters in shakespeare\u0027s shakespeare\u0027s taming of the shrew feat. one idiot programmer, one confused translator and one philologist who basically saved our butts",
-    "intro": "all interactions between all the characters in shakespeare\u0027s taming of the shrew",
-    "title": "shrew_interactions"
+    "more": "analysing all the character encounters in shakespeare",
+    "intro": "taming of the shrew - all interactions",
+    "title": "hrew"
   },
   "legend": {
     "edgeLabel": "Interaction",
-    "colorLabel": "Not important",
+    "colorLabel": "Character Involvedness",
     "nodeLabel": "Character"
   },
   "features": {

@@ -8,13 +8,13 @@
     "text": "Maria"
   },
   "text": {
-    "more": "all interactions between all the characters in shakespeare\u0027s comedy of errors feat. one idiot programmer, one confused translator and one philologist who basically saved our butts",
-    "intro": "all interactions between all the characters in shakespeare\u0027s comedy of errors",
-    "title": "error_interactions"
+    "more": "analysing all the character encounters in shakespeare",
+    "intro": "midsummer night\u0027s dream - all interactions",
+    "title": "mnd"
   },
   "legend": {
     "edgeLabel": "Interaction",
-    "colorLabel": "Not important",
+    "colorLabel": "Character Involvedness",
     "nodeLabel": "Character"
   },
   "features": {
