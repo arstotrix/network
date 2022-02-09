@@ -15,7 +15,7 @@
 ![Укрощение строптивой](graph_pics/shr.png)
 ![Комедия ошибок](graph_pics/err.png)
 ![Тит Андроник](graph_pics/tit.png)
-![Троил и Кресссида](graph_pics/trot.png)
+![Троил и Кресссида](graph_pics/tro.png)
 ![Отелло](graph_pics/oth.png)
 ![Макбет](graph_pics/mac.png)
 
